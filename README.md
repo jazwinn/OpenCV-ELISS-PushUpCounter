@@ -3,8 +3,8 @@
 A Push-Up assistant inspired by Singapore's ELISS machine, built using **YOLO pose estimation**, **OpenCV**, and custom **biomechanics logic**. The system detects exercise form, evaluates posture angles, plays real-time correction audio cues, and automatically counts reps only when proper form is held.
 
 ---
-### 🎥 Demo (Enable sound to listen)
-
+### 🎥 Demo 
+### Enable sound to listen
 
 https://github.com/user-attachments/assets/98ad50d7-28ff-4856-a285-697db160502b
 

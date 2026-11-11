@@ -160,17 +160,4 @@ These are the honest edges of the current build, and most of them are one evenin
 
 ---
 
-## Roadmap
-
-- [ ] Moving-average smoothing over joint angles
-- [ ] Unit tests for the angle maths against synthetic keypoints
-- [ ] Left/right side auto-detection from keypoint confidence
-- [ ] Re-enable the floor-angle gate
-- [ ] Per-user calibration instead of fixed thresholds
-- [ ] Multi-exercise support (sit-ups, pull-ups) over the same `BodyCompression` primitive
-- [ ] Spoken coaching prompts and an on-screen form dashboard
-- [ ] Mobile / edge deployment
-
----
-
 Inspired by Singapore's ELISS push-up station. Pose model: [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics).
